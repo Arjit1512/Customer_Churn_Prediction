@@ -17,7 +17,7 @@ This project predicts customer churn using a **Logistic Regression Model**. The 
 ---
 
 ## 📂 **Dataset**  
-- **Filename**: `WA_Fn-UseC_-Telco-Customer-Churn.csv`  
+- **Filename**: `WA_Fn-UseC_-Telco-Customer-Churn.csv` (Contains Data of a Telecom Company)
 - Contains customer demographics, service subscriptions, and churn status.  
 
 ---
